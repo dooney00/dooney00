@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML/CSS/JS.
 - 💞️ I’m looking to collaborate on the frontend, backend.
 - 📫 How to contact me: 1) E-mail: artemdoney@gmail.com
-                         2) discord-duni00#0836
+                         2) discord-dooney00#0836
 
 <!---
 dooney00/dooney00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
